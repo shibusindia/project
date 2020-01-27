@@ -1,0 +1,36 @@
+[{
+  "email-id": {
+    "api-key": "value",
+    "binance-settings": {
+      "balance-amount": "value",
+      "order": {
+        "buy-price": "value",
+        "channel": "channel-name",
+        "quantity": "value",
+        "sell-price": "value",
+        "status": "value"
+      }
+    },
+    "isCloud": true,
+    "password": "value",
+    "phone-number": "value",
+    "secret-key": "value",
+    "telegram-settings": [{
+      "channel-name": {
+        "settings": {
+          "amount-tospend": "value",
+          "blacklist-words": "value",
+          "buy-at": "value",
+          "channel-added": true,
+          "isStoploss": true,
+          "isTrailing": false,
+          "recent-signal": "value",
+          "sell-at": "value",
+          "stop-loss": "value",
+          "take-profit": "value",
+          "trailing-stoploss": "value"
+        }
+      }
+    }]
+  }
+}]
